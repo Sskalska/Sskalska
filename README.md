@@ -1,10 +1,7 @@
 # 👋🏻 Hi, my name is **Sofia Skalska**!
 ## I'm a *Front-End Engineer* from Lviv.
-### Languages and Technologies 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 ### ✉️ Mail me: skalska709@gmail.com
 > Talk is cheap. Show me the code. <br/>
 > ***Linus Torvalds***
